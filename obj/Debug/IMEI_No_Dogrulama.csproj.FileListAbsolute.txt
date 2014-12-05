@@ -10,3 +10,9 @@ C:\Users\Emre\Documents\Visual Studio 2012\Projects\IMEI_No_Dogrulama\IMEI_No_Do
 C:\Users\Emre\Desktop\IMEI_No_Dogrulama\IMEI_No_Dogrulama\bin\Debug\IMEI_No_Dogrulama.exe.config
 C:\Users\Emre\Desktop\IMEI_No_Dogrulama\IMEI_No_Dogrulama\obj\Debug\IMEI_No_Dogrulama.exe
 C:\Users\Emre\Desktop\IMEI_No_Dogrulama\IMEI_No_Dogrulama\obj\Debug\IMEI_No_Dogrulama.pdb
+C:\Users\Emre\Desktop\IMEI_No_Dogrulama\IMEI_No_Dogrulama\bin\Debug\IMEI_No_Dogrulama.exe
+C:\Users\Emre\Desktop\IMEI_No_Dogrulama\IMEI_No_Dogrulama\bin\Debug\IMEI_No_Dogrulama.pdb
+C:\Users\Emre\Desktop\IMEI_No_Dogrulama\IMEI_No_Dogrulama\obj\Debug\IMEI_No_Dogrulama.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\IMEI_No_Dogrulama\IMEI_No_Dogrulama\obj\Debug\IMEI_No_Dogrulama.Form1.resources
+C:\Users\Emre\Desktop\IMEI_No_Dogrulama\IMEI_No_Dogrulama\obj\Debug\IMEI_No_Dogrulama.Properties.Resources.resources
+C:\Users\Emre\Desktop\IMEI_No_Dogrulama\IMEI_No_Dogrulama\obj\Debug\IMEI_No_Dogrulama.csproj.GenerateResource.Cache
