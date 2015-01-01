@@ -39,8 +39,8 @@ namespace IMEI_No_Dogrulama
                 for (int i = 13; i >= 1; i-=2)
                 {
                     dizi[i] = dizi[i] * 2;
-                    onluk = dizi[i] / 10;
-                    birlik = dizi[i] % 10;
+                    onluk   = dizi[i] / 10;
+                    birlik  = dizi[i] % 10;
                     dizi[i] = onluk + birlik;
                 }
 
